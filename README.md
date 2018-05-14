@@ -2,7 +2,7 @@
 
 ## 第一步 安装
 
-* 1. windows 系统
+* windows 系统
 
   1.1 下载 shadowsocks
   ![src](./img/shadowsocks.png)
@@ -11,7 +11,7 @@
   1.2 下载后解压并运行 Shadowsocks.exe
   ![src](./img/shadowsocks1.png)
 
-* 2. MacOS 系统
+* MacOS 系统
 
 1. 下载 shadowsocks
    ![src](./img/shadowsocks2.png)
